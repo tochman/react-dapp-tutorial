@@ -70,6 +70,42 @@
       "artifacts": [
         "console"
       ]
+    },
+    "/Users/thomasochman/Projects/workshops/react-dapp/contracts/Token.sol": {
+      "lastModificationDate": 1618129250937,
+      "contentHash": "f4614df80c3422ed656162a21637c181",
+      "sourceName": "contracts/Token.sol",
+      "solcConfig": {
+        "version": "0.8.3",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.3"
+      ],
+      "artifacts": [
+        "Token"
+      ]
     }
   }
 }
