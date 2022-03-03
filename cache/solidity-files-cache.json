@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/Users/thomasochman/Projects/workshops/react-dapp/contracts/Greeter.sol": {
-      "lastModificationDate": 1618124126897,
-      "contentHash": "fd7d4653037b3b4e3b5ab5813047f5e5",
+      "lastModificationDate": 1618393237662,
+      "contentHash": "836b212bc60f3b6368911131511f9454",
       "sourceName": "contracts/Greeter.sol",
       "solcConfig": {
         "version": "0.8.3",
